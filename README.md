@@ -1,0 +1,1 @@
+I interpreted the Hyper Casual Helix Jump game in my own way and made a demo of it. Our aim is to get our downward ball through the correct gaps and reach the finish line. If we hit the wrong ground, our game will be game over.
